@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_d0ba57e16638961bd16e9bdd8d2a1ae2626097c8.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_7412850a166c9411b3aaf9407b41bcc6b1ada310.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/libs/pushservice-5.0.0.66.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9afe4817302f358bdd51cc7c4c88f5ede2e70168">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/pre-dexed/debug/pushservice-5.0.0.66_d5eb3b9631c922ed9c6f34be280dbcc1040523ca.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_0fcf3872d21da786eefdaac266932cae043bba5c.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_ed522b2f724bf334a15476e28e640f1a5f4fc797.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_39e69519e398a91c2ff1f9fba76299d986b26509.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_bf22bb63b603031b7016d7ec1cffacff9480af08.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_67106b1dd83b643e9692c498aa55f06375b10efd.jar" />
+    </item>
+    <item
+        jar="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/wangyiting/AndroidStudioProjects/BaiduPushDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_59cd1fa0417184ce82f25c3d532d2e9579624a45.jar" />
+    </item>
+
+</items>
